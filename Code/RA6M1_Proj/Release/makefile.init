@@ -1,0 +1,13 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\;C:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.5.v20220125-0945\bin\;C:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.0.v20220121-1024\mk\;C:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.15.v20220515-1236/jre/bin/server;C:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.15.v20220515-1236/jre/bin;C:\ProgramData\LLVM for Renesas RL78 10.0.0.202209\bin;C:\ProgramData\GCC for Renesas RL78 4.9.2.202201-GNURL78-ELF\rl78-elf\rl78-elf\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Program Files\dotnet\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Microchip\xc32\v4.21\bin;C:\Program Files (x86)\Microchip\xc16\v1.41\bin;C:\Program Files (x86)\Microchip\xc32\v1.44\bin;C:\ProgramData\LLVM for Renesas RL78 10.0.0.202209\bin;C:\ProgramData\GCC for Renesas RL78 4.9.2.202201-GNURL78-ELF\rl78-elf\rl78-elf\bin;C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin;C:\Users\WELCOME\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\WELCOME\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\WELCOME\.dotnet\tools;;C:\Renesas\e2_studio\eclipse
+export TCINSTALL=C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=
+export TC_VERSION=10.3.1.20210824
+export AMS_KEEP_FILE=
+export PWD=$(CURDIR)
+export GCC_VERSION=10.3.1
